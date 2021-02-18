@@ -17,6 +17,7 @@ html {
 
 #main {
   background-color: linen;
+  background-image: linear-gradient(to left, linen, white, linen);
   text-align: center;
   margin: 0.2em;
   padding: 1em;
